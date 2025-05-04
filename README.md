@@ -6,6 +6,8 @@
 
 ## 01_Getting_&_Knowing_Your_Data
 
+- Chipotle: https://colab.research.google.com/drive/1VyVsABSpMTV60CZJufPyIhNilM9jIVSv?usp=sharing
+
 ## 02_Filtering_&_Sorting
 
 ## 03_Stats
