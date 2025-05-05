@@ -30,4 +30,6 @@
 
 ## 07_Visualization
 
+- Titanic_Desacter: https://colab.research.google.com/drive/1J9CID-RiYTDzTE1J9iyfaR2FQ_-MEdG9?usp=sharing
+
 ## 08_Deleting
