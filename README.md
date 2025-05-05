@@ -26,6 +26,8 @@
 
 ## 06_Merge
 
+- Fictitous_Names: https://colab.research.google.com/drive/1aHSn11LrrBxOHIZCatHmT-SGdmRN9vPj?usp=sharing
+
 ## 07_Visualization
 
 ## 08_Deleting
