@@ -22,6 +22,8 @@
 
 ## 05_Apply
 
+- Students_Alcohol_Consumption: https://colab.research.google.com/drive/1m2NAvpBLwD7Y83MTPocX1HY4vKiyIBw-?usp=sharing
+
 ## 06_Merge
 
 ## 07_Visualization
