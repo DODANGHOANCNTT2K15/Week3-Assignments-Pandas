@@ -1,5 +1,7 @@
 # Week3-Assignments-Pandas
 
+This is an exercise on python's pandas library.
+
 ## 00_Creating_Series_and_DataFrames
 
 - Pokemon: https://colab.research.google.com/drive/1V1pBg6POd27w4RJK5tJN8TXp5MRJtNce?usp=sharing
